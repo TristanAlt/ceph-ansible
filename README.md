@@ -1,2 +1,1 @@
-# ceph-ansible
-This is a test project
+ceph-ansible stable-3.2 branch content.
