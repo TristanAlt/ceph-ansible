@@ -1,2 +1,1 @@
-# ceph-ansible
-This is a test project
+ceph-ansible master branch content.
